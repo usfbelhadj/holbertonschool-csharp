@@ -1,0 +1,16 @@
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/net5.0/5-print_float.csproj.AssemblyReference.cache
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/net5.0/5-print_float.GeneratedMSBuildEditorConfig.editorconfig
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/net5.0/5-print_float.AssemblyInfoInputs.cache
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/net5.0/5-print_float.AssemblyInfo.cs
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/net5.0/5-print_float.csproj.CoreCompileInputs.cache
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/net5.0/5-print_float
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/net5.0/5-print_float.deps.json
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/net5.0/5-print_float.runtimeconfig.json
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/net5.0/5-print_float.runtimeconfig.dev.json
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/net5.0/5-print_float.dll
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/net5.0/ref/5-print_float.dll
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/net5.0/5-print_float.pdb
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/net5.0/5-print_float.dll
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/net5.0/ref/5-print_float.dll
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/net5.0/5-print_float.pdb
+/home/djo/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/net5.0/5-print_float.genruntimeconfig.cache
